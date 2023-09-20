@@ -76,3 +76,8 @@ dotnet add package Microsoft.Data.Sqlite
 
 ## link
 [stackoverflow:debug-console-window-cannot-accept-console-readline-input-during-debugging](https://stackoverflow.com/questions/41195432/debug-console-window-cannot-accept-console-readline-input-during-debugging)
+
+# END by Helder!!!<br/>
+1. j
+2. e
+- c
