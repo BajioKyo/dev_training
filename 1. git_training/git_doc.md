@@ -37,9 +37,15 @@ git commit -m "message of the commit"
 
 # 7. push
 ## if no push possible:
+try to remove:<br/>
+[stakoverflow: git-easiest-way-to-reset-git-config-file](https://stackoverflow.com/questions/35853986/git-easiest-way-to-reset-git-config-file)
+then </br>
+link:<br/>
+[youtube: How to Install and Configure Git and GitHub on Ubuntu 22.04 LTS (Linux) (2023)](https://www.youtube.com/watch?v=bc3_FL9zWWs)
 ```bash
 git remote set-url origin https://<token>@github.com/<username>/<repo-without-.git>
 ```
+
 # 8. See the commits
 ```bash
 git log
