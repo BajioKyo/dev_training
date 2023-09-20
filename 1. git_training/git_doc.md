@@ -6,6 +6,11 @@
 # 3. Syncing a fork
 [github: syncing-a-fork](/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork)
 
+# 4. See the servers
+```bash
+git remote -v
+```
+
 # optional: local infos
 go to your local git repo, then
 ```bash
