@@ -4,7 +4,7 @@
 [github: fork-a-repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
 
 # 3. Syncing a fork
-[github: syncing-a-fork](/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork)
+[github: syncing-a-fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork)
 
 # 4. See the servers
 ```bash
